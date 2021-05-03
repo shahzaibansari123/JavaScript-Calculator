@@ -1,0 +1,42 @@
+.calculate{
+    margin: 5px;
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 1%;
+    background: grey;
+}
+.display{
+    width: 98%;
+    height: 30px;
+    background: cyan;
+}
+.delete{
+    width: 100%;
+    background: orangered;
+}
+.operator1{
+    background: darkgreen;
+    width :120px;
+    height: 30px;
+    margin-top: 5px;
+}
+.numbers{
+    width: 120px;
+    height: 30px;
+    margin-top: 5px;
+    background: darkolivegreen;
+}
+.operator2{
+    background: darkgreen;
+    width :49%;
+    height: 30px;
+    margin-top: 5px;
+}
+.delete:hover{
+    background: rgb(250, 2, 2);
+    color: white;
+}
+.numbers:hover{
+    background-color: orange;
+}
